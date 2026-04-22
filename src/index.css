@@ -5,4 +5,10 @@
   font-family: 'Nunito', sans-serif;
 }
 
+.conainer{
+  max-width: 1440px;
+  width: 1440px;
+  padding: 0 50px;
+}
+
 @import 'tailwindcss';

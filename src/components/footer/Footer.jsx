@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <footer>
+    <footer className='conainer'>
       <hr />
         <div className=' flex items-center justify-between mt-[60px]'>
           <ul>
